@@ -27,3 +27,6 @@ All versions of minecraft bedrock, Java is incompatible
 
 # Feedback
 Email is paytousebloxy1774@gmail.com
+
+# Bug Report
+Wanna report bugs? Go to issues
