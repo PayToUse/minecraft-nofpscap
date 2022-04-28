@@ -13,6 +13,9 @@ With vsync:
 
 ![Screenshot_20220428_155713_com mojang minecraftpe](https://user-images.githubusercontent.com/67496494/165705947-53c32bb5-ba3c-4554-86b5-570a1ee49419.jpg)
 
+If you want a closer look, here
+
+![Screenshot_20220428_160205](https://user-images.githubusercontent.com/67496494/165706814-669eb8d8-60a8-4a7e-ba4d-3cb45d28912f.jpg)
 
 # Instructions
 Download the zip, extract and read the Readme file
