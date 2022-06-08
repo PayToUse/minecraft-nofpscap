@@ -29,4 +29,4 @@ All versions of minecraft bedrock, Java is incompatible, i mean, java fps cap ca
 Email is paytousebloxy1774@gmail.com
 
 # Bug Report
-Wanna report bugs? Go to issues
+Wanna report bugs? Go to [issues](https://github.com/PayToUse/minecraft-nofpscap/issues)
