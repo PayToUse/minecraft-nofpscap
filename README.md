@@ -19,6 +19,14 @@ If you want a closer look, here
 
 ![Screenshot_20220428_160232](https://user-images.githubusercontent.com/67496494/165707033-62373d40-56a7-43a6-ac78-c43bbb6c6616.jpg)
 
+These screenshots are from my phone, specs goes here
+
+Huawei Nova 9 (yes, it doesn't have google play services)
+Snapdragon 778G
+Adreno 642L
+8GB Ram
+256GB Storage
+
 # Instructions
 Download the zip, extract and read the Readme file
 
