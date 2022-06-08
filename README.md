@@ -23,7 +23,7 @@ If you want a closer look, here
 Download the zip, extract and read the Readme file
 
 # Compatibility
-All versions of minecraft bedrock, Java is incompatible
+All versions of minecraft bedrock, Java is incompatible, i mean, java fps cap can be set whether 10 to unlimited / 250 fps, it can also be set to custom on it's options file
 
 # Feedback
 Email is paytousebloxy1774@gmail.com
